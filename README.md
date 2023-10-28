@@ -9,7 +9,7 @@ This Jupyter Notebook presents an analysis of sales data. The objective of this 
 
 The analysis includes data cleaning, preprocessing, and visualization to provide actionable insights for business decision-making.
 
-LinkedIn: Chandramani Kumar Chandravnsi
+LinkedIn: https://www.linkedin.com/in/ckchandravnsi/
 
-GitHub: ckrazaditya
+GitHub: https://github.com/ckrazaditya
 
